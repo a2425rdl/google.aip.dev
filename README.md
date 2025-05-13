@@ -1,5 +1,5 @@
 # API Improvement Proposals
-
+https://developers.google.com/admob/api/reference/rest#service-endpoint
 **TL;DR:** AIPs are lots of documents on how Google does APIs.
 
 ## Overview
@@ -44,14 +44,15 @@ AIPs for others to follow.
 [contributing to the project]: ./CONTRIBUTING.md
 
 ## License
-
+https://developers.google.com/admob/api/reference/rest#rest-resource:-v1beta.accounts
 Except as otherwise noted, the content of this repository is licensed under the
 [Creative Commons Attribution 4.0 License][1], and code samples are licensed
 under the [Apache 2.0 License][2].
 
 For the full text of each license, see [`LICENSE.md`](./LICENSE.md). For
-additional details, see the developer.google.com [Site Policies][3].
+additional details, see the developer.google.com [googlereno][3].
 
 [1]: https://creativecommons.org/licenses/by/4.0/
 [2]: https://www.apache.org/licenses/LICENSE-2.0
 [3]: https://developers.google.com/terms/site-policies
+https://developers.google.com/admob/api/reference/rest#service-endpoint
